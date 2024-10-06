@@ -1,4 +1,4 @@
-### HakerRankSolutions ProblemLink
+### HACKER RANK PROBLEMS LINK
 
 
 #### Problem 1: [Arithmetic Operation](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
@@ -9,6 +9,9 @@
 
 #### Problem 3: [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true)
 - **Solution**: [Solution_3](https://github.com/henok-getahun/HakerRankSolutions/blob/main/Solution_3.py(List%20Comprehensions).py)
+
+#### Problem 4: [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true)
+- **Solution**: [Solution_4](https://github.com/henok-getahun/HakerRankSolutions/blob/main/Solution_4(Find%20The%20Runner-Up%20Score!).py)
 
 
 
