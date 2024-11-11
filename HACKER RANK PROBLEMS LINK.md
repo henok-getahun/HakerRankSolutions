@@ -13,5 +13,8 @@
 #### Problem 4: [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true)
 - **Solution**: [Solution_4](https://github.com/henok-getahun/HakerRankSolutions/blob/main/Solution_4(Find%20The%20Runner-Up%20Score!).py)
 
+#### Problem 5: [Counting sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)
+- **Solution**: [Solution_5](https://github.com/henok-getahun/HakerRankSolutions/blob/main/Solution_5(Counting%20sort%201).py)
+
 
 
